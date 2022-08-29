@@ -2,7 +2,7 @@
 //  Logger.swift
 //  Logging
 //
-//  Created by Mikkel Sindberg Eriksen on 27/05/2022.
+//  Created by Mikkel Sindberg Eriksen on 30/11/2017.
 //
 
 import Foundation
