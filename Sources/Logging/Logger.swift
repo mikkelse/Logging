@@ -2,8 +2,7 @@
 //  Logger.swift
 //  Logging
 //
-//  Created by Mikkel Sindberg Eriksen on 30/11/2017.
-//  Copyright © 2017 Feast Kitchen Inc. All rights reserved.
+//  Created by Mikkel Sindberg Eriksen on 27/05/2022.
 //
 
 import Foundation

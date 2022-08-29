@@ -1,15 +1,14 @@
 //
 //  Loggable.swift
-//  SimpleFeast
+//  Logging
 //
-//  Created by Mikkel Sindberg Eriksen on 30/11/2017.
-//  Copyright © 2017 Feast Kitchen Inc. All rights reserved.
+//  Created by Mikkel Sindberg Eriksen on 27/05/2022.
 //
 
 import Foundation
 
 /// An enum defining different levels of logging.
-public enum LogLevel: Int {
+public enum LogLevel: Int, CaseIterable {
     case verbose = 0
     case debug = 1
     case info = 2
